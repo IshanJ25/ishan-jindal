@@ -4,7 +4,7 @@
 ## My Contribution:
 <p>
 <img src="https://raw.githubusercontent.com/IshanJ25/IshanJ25/output/snek.svg">
-<img src="https://raw.githubusercontent.com/IshanJ25/IshanJ25/7076c1516690dd6fe4244b57ef1b94c43be9ed9f/snek.svg">
+<img src="https://github.com/IshanJ25/IshanJ25/blob/output/snek.svg">
 </p>
 
 ## 🌐 Socials:
