@@ -3,7 +3,6 @@
 
 ## My Contribution:
 <p>
-<img src="https://raw.githubusercontent.com/IshanJ25/IshanJ25/output/snek.svg">
 <img src="https://github.com/IshanJ25/IshanJ25/blob/output/snek.svg">
 </p>
 
