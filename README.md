@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Apps<br>👯 I’m looking to collaborate on Python GUI<br>🤝 I’m looking for help with JS, TS, CSS<br>🌱 I’m currently learning AI, ML, DL<br>💬 Ask me about anything, I may or may not answer<br>⚡ Fun fact: It is actually pronounced "Jee-Eye-Eff"
+
+🔭 I’m currently working on Android Apps <br>
+👯 I’m looking to collaborate on Python GUI <br>
+💫 I work with both - backend and frontend <br>
+🤖 I also have some knowledge of Arduino <br>
+🤝 I’m looking for help with JS, TS, CSS <br>
+🌱 I’m currently learning AI, ML, DL <br>
+💬 Ask me about anything, I may or may not answer <br>
+⚡ Fun fact: It is actually pronounced "Jee-Eye-Eff" <br>
 
 ## My Contribution:
 <p>
