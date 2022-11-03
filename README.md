@@ -29,10 +29,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IshanJ25&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
+<br><br>
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=IshanJ25&icon=8&color=0&pretty=false">
+    <img src="https://visitcount.itsvg.in/api?id=IshanJ25&icon=8&color=0&pretty=false" height="40">
   </a>
 <p>
