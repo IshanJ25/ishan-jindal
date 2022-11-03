@@ -32,3 +32,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=IshanJ25&icon=8&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=IshanJ25&label=Profile%20Views&color=0&icon=2&pretty=true)](https://visitcount.itsvg.in)
