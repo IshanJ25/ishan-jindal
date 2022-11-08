@@ -25,7 +25,8 @@
   <img src="https://holopin.me/ishan_j" alt="Ishan's Holopin Board">
 </a></p>
 
-| <b><i>I successfully completed Hacktoberfest'22!</b></i> | <img src="https://user-images.githubusercontent.com/86649457/200374424-566dcd2d-3684-48f4-81b7-b74e294e1269.png" height="120"> |
+
+| <b><i>     I successfully participated in Hacktoberfest'22!     </b></i> | <img src="https://user-images.githubusercontent.com/86649457/200374424-566dcd2d-3684-48f4-81b7-b74e294e1269.png" height="80"> |
 |----------|----------|
 
 
