@@ -44,6 +44,6 @@
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=IshanJ25&icon=8&color=0&pretty=false" height="40">
+    <img src="https://visitcount.itsvg.in/api?id=IshanJ25&icon=8&color=0&pretty=true" height="40">
   </a>
 </p>
