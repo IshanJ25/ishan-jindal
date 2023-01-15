@@ -9,6 +9,7 @@
 💬 Ask me about anything, I may be slow to answer <br>
 ⚡ Fun fact: It is actually pronounced "Jee-Eye-Eff" <br>
 💾 I have nothing to hide: unlike _some_, I work openly <br>
+☢️ Always interested in hackathons. Let's team up! <br>
 
 ## My Contribution:
 <p align="center">
