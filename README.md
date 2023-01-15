@@ -10,15 +10,19 @@
 ⚡ Fun fact: It is actually pronounced "Jee-Eye-Eff" <br>
 
 ## My Contribution:
-<p>
+<p align="center">
 <img src="https://github.com/IshanJ25/IshanJ25/blob/output/snek.svg">
 </p>
-<p>
+<p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=IshanJ25&custom_title=My%20GitHub%20activity%20this%20month&hide_border=true&theme=github-compact&area=true&point=72DF89">
 </p>
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=ishanj25&last_n_days=30&img_url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1509966756634-9c23dd6e6815%3F%26w%3D500" width=500>
+</p>
+
 
 ## 🌐 Socials:
-[![Discord Presence](https://lanyard.cnrad.dev/api/764120105360556062)](https://discord.com/users/764120105360556062) <br>
+[![Discord%20Presence](https://lanyard-profile-readme.vercel.app/api/764120105360556062?bg=1E283C&animated=true&hideDiscrim=true&idleMessage=Currently%20inactive%20on%20discord...%20%3A%29)](https://discord.com/users/764120105360556062) <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ishaaaaan_ji/?theme=dark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-jindal-46ab3321a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/15H4N_J) 
 
 # 💻 Tech Stack:
