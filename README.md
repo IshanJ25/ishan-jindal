@@ -50,7 +50,7 @@
 <br><br>
 ---
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=IshanJ25&icon=8&color=0&pretty=true" height="40">
+  <a href="">
+    <img src="https://komarev.com/ghpvc/?username=ishanj25" height="40">
   </a>
 </p>
