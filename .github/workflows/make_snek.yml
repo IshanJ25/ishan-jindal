@@ -1,7 +1,7 @@
 name: make snek
 on:
-  schedule: # execute everyday at UTC 00:00
-    - cron: "0 0 * * *"
+  schedule: # execute everyday at IST 00:00
+    - cron: "30 18 * * *"
   workflow_dispatch:
 jobs:
   build:
