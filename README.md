@@ -5,7 +5,7 @@
 💫 I work in both - backend and frontend <br>
 🤖 I also have some knowledge of Arduino <br>
 🤝 I’m looking for help with web development <br>
-🌱 I’m currently learning AI and ML <br>
+🌱 I’m currently learning AI. ML and DL <br>
 💬 Ask me about anything, I may be slow to answer <br>
 ⚡ Fun fact: It is actually pronounced "Jee-Eye-Eff" <br>
 💾 I have nothing to hide: unlike [_some_](https://github.com/jaivardhan-bhola), I work openly <br>
