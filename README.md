@@ -24,6 +24,8 @@
 
 
 ## 🌐 Socials:
+<img src="https://github.com/IshanJ25/IshanJ25/blob/main/guy.svg" width="400" alt="An SVG Graphic" align="right"/>
+
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/764120105360556062?bg=1E283C&animated=true&hideDiscrim=true&idleMessage=Currently%20inactive%20on%20discord...%20%3A%29)](https://discord.com/users/764120105360556062) <br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ishaaaaan_ji/?theme=dark) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishan-jindal-46ab3321a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/15H4N_J) [![Holopin](https://holopin.onrender.com/ishan_j)](https://holopin.io/@ishan_j) [![Bento](https://img.shields.io/badge/%20-Bento-768cff)](https://bento.me/ishan)
 
