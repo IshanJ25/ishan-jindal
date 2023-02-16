@@ -46,12 +46,13 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=IshanJ25&include_all_commits=true&count_private=true&hide=stars&show_icons=true&hide_rank=true&include_all_commits=true&line_height=28&title_color=0C5851&text_color=0C5851&icon_color=0C5851&bg_color=315,1DE7CF,7880E2&hide_border=true&cache_seconds=14400&locale=en&border_radius=16&card_width=300&custom_title=My%20GitHub%20Stats)
+| ![](https://github-readme-stats.vercel.app/api?username=IshanJ25&include_all_commits=true&count_private=true&hide=stars&show_icons=true&hide_rank=true&include_all_commits=true&line_height=28&title_color=0C5851&text_color=0C5851&icon_color=0C5851&bg_color=315,1DE7CF,7880E2&hide_border=true&cache_seconds=14400&locale=en&border_radius=16&card_width=300&custom_title=My%20GitHub%20Stats) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IshanJ25&hide_progress=true&langs_count=10&custom_title=Used%20languages&title_color=0C5851&text_color=0C5851&icon_color=0C5851&bg_color=315,1DE7CF,7880E2&hide_border=true&cache_seconds=14400&locale=en&border_radius=16&card_width=300) |
+|---|---|
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com?user=IshanJ25&theme=radical&hide_border=true&border_radius=16&background=1DE7CF&date_format=j%20M%5B%20Y%5D&mode=weekly&stroke=1A1B3D&ring=1A1B3D&fire=1A1B3D&currStreakLabel=1A1B3D&currStreakNum=1A1B3D&sideNums=0C5851&sideLabels=0C5851&dates=0C5851) -->
 <!-- use this sometime else -->
 
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IshanJ25&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IshanJ25&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
