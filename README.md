@@ -45,8 +45,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=IshanJ25&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IshanJ25&theme=algolia&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats-sigma-five.vercel.app/api?username=IshanJ25&theme=algolia&hide_border=false&include_all_commits=true&count_private=true)<br> -->
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=IshanJ25&include_all_commits=true&count_private=true&hide=stars&show_icons=true&hide_rank=true&include_all_commits=true&line_height=28&title_color=0C5851&text_color=0C5851&icon_color=0C5851&bg_color=315,1DE7CF,7880E2&hide_border=true&cache_seconds=14400&locale=en&border_radius=8&card_width=300)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=IshanJ25&theme=algolia&hide_border=false)<br>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IshanJ25&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
