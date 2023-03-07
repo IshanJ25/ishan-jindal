@@ -11,6 +11,7 @@
 ⚡ Fun fact: It is actually pronounced "Jee-Eye-Eff" <br>
 💾 I have nothing to hide: unlike [_some_](https://github.com/jaivardhan-bhola), I work openly <br>
 ☢️ Always interested in hackathons. Let's team up! <br>
+🧩 MANY side-projects currently under development!!!
 
 ## My Contribution:
 <p align="center">
