@@ -12,6 +12,7 @@
 💾 I have nothing to hide: unlike [_some_](https://github.com/jaivardhan-bhola), I work openly <br>
 ☢️ Always interested in hackathons. Let's team up! <br>
 🧩 MANY side-projects currently under development!!!
+🧣 Graduating highschool in uncoming months (I'll be busy)
 
 ## My Contribution:
 <p align="center">
