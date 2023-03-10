@@ -16,7 +16,10 @@
 
 ## My Contribution:
 <p align="center">
-<img src="https://github.com/IshanJ25/IshanJ25/blob/output/snek.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IshanJ25/IshanJ25/blob/output/snek_dark.svg">
+  <img src="https://github.com/IshanJ25/IshanJ25/blob/output/snek_light.svg">
+</picture>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=IshanJ25&custom_title=My%20GitHub%20activity%20this%20month&hide_border=true&theme=github-compact&area=true&point=72DF89">
