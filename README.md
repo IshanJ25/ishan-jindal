@@ -1,3 +1,10 @@
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IshanJ25/IshanJ25/blob/main/dark_sign.svg" width="600">
+  <img src="https://github.com/IshanJ25/IshanJ25/blob/main/light_sign.svg" width="600">
+</picture>
+</p>
+
 # 💫 About Me:
 
 🔗 Check out my Bento! https://bento.me/ishan <br>
