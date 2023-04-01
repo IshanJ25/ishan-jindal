@@ -16,7 +16,7 @@
 🌱 I’m currently learning AI, ML and DL <br>
 💬 Ask me about anything, I may be slow to answer <br>
 ⚡ Fun fact: It is actually pronounced "Jee-Eye-Eff" <br>
-💾 I do not plagiarize projects, unline [_some_](https://github.com/jaivardhan-bhola)<br>
+💾 I do not plagiarize projects, unlike [_some_](https://github.com/jaivardhan-bhola)<br>
 ☢️ Always interested in hackathons. Let's team up! <br>
 🧩 MANY side-projects currently under development!!! <br>
 🧣 Graduating highschool in uncoming months (I'll be busy) <br>
