@@ -10,7 +10,7 @@
 🔗 Check out my Bento! https://bento.me/ishan <br>
 🔭 I’m currently working on Android Apps <br>
 👯 I’m looking to collaborate on Python GUI <br>
-💫 I work in both - backend and frontend <br>
+💫 I work in backend and frontend but not on weekend <br>
 🤖 I also have some knowledge of Arduino <br>
 🤝 I’m looking for help with web development <br>
 🌱 I’m currently learning AI, ML and DL <br>
