@@ -1,7 +1,8 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IshanJ25/IshanJ25/blob/main/dark_sign.svg" width="600">
-  <img src="https://github.com/IshanJ25/IshanJ25/blob/main/light_sign.svg" width="600">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/IshanJ25/IshanJ25/blob/main/light_sign.svg" width="600">
+  <img src="https://github.com/IshanJ25/IshanJ25/blob/main/dark_sign.svg" width="600">
 </picture>
 </p>
 
@@ -25,7 +26,8 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IshanJ25/IshanJ25/blob/output/snek_dark.svg">
-  <img src="https://github.com/IshanJ25/IshanJ25/blob/output/snek_light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/IshanJ25/IshanJ25/blob/output/snek_light.svg">
+  <img src="https://github.com/IshanJ25/IshanJ25/blob/output/snek_dark.svg">
 </picture>
 </p>
 <p align="center">
