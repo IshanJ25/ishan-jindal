@@ -76,10 +76,12 @@
   <a href="">
     <img src="https://komarev.com/ghpvc/?username=ishanj25" height="40">
   </a>
+  <a href="https://www.buymeacoffee.com/IshanJ25">
+    <img height="40" src="https://user-images.githubusercontent.com/86649457/232105592-894587b8-b33f-4411-a442-be7f6e5cb72f.png">
+  </a>
 </p>
 
 #### I like coffee, do you like coffee?
 <a href="https://holopin.io/collect/clggn53k117250fjz3km3xr2u">
   <img src="https://user-images.githubusercontent.com/86649457/232073077-0ae6ec88-b90e-46f6-804c-436ab041f26d.png" height="50">
 </a>
-
