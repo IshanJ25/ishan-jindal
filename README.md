@@ -31,7 +31,7 @@
 </picture>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=IshanJ25&custom_title=My%20GitHub%20activity%20this%20month&hide_border=true&theme=github-compact&area=true&point=72DF89">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IshanJ25&custom_title=My%20GitHub%20activity%20this%20month&hide_border=true&theme=github-compact&area=true&point=72DF89">
 </p>
 <!-- <p align="center">
   <img src="https://github-contribution-graph.ez4o.com/?username=ishanj25&last_n_days=30&img_url=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1509966756634-9c23dd6e6815%3F%26w%3D500" width=500>
