@@ -56,9 +56,12 @@
 </a></p>
 
 
+<div align="center">
+
 | <b><i>     I successfully participated in Hacktoberfest'22!     </b></i> | <img src="https://user-images.githubusercontent.com/86649457/200374424-566dcd2d-3684-48f4-81b7-b74e294e1269.png" height="80" width="80"> |
 |----------|----------|
 
+</div>
 
 # 📊 GitHub Stats:
 
