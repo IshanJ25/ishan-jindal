@@ -8,6 +8,7 @@
 
 # 💫 About Me:
 
+🧣 Freshman @ VIT, Vellore <br>
 🔗 Check out my Bento! https://bento.me/ishan <br>
 🔭 I’m currently working on Android Apps <br>
 👯 I’m looking to collaborate on Python GUI <br>
@@ -20,7 +21,7 @@
 💾 I do not plagiarize projects, unlike [_some_](https://github.com/jaivardhan-bhola)<br>
 ☢️ Always interested in hackathons. Let's team up! <br>
 🧩 MANY side-projects currently under development!!! <br>
-🧣 Graduating highschool in uncoming months (I'll be busy) <br>
+
 
 ## My Contribution:
 <p align="center">
