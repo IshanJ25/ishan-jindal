@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-🧣 Freshman @ VIT, Vellore <br>
+🧣 Freshman, CSE @ VIT, Vellore <br>
 🔗 Check out my Bento! https://bento.me/ishan <br>
 🔭 I’m currently working on Android Apps <br>
 👯 I’m looking to collaborate on Python GUI <br>
