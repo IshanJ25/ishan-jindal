@@ -87,7 +87,7 @@
   </a>
 </p>
 
-#### I like coffee, do you like coffee?
+#### Here, a treat for you!
 <a href="https://holopin.io/collect/clggn53k117250fjz3km3xr2u">
   <img src="https://user-images.githubusercontent.com/86649457/232073077-0ae6ec88-b90e-46f6-804c-436ab041f26d.png" height="50">
 </a>
