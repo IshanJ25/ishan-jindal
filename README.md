@@ -53,7 +53,7 @@
 
 <br>
 <p><a href="https://holopin.io/@ishan_j">
-  <img src="https://holopin.me/ishan_j" alt="Ishan's Holopin Board">
+  <img src="https://holopin.me/ishan_j">
 </a></p>
 
 
