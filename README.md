@@ -8,18 +8,12 @@
 
 # 💫 About Me:
 
-🧣 Freshman, CSE @ VIT, Vellore <br>
+🧣 Sophomore, CSE @ VIT, Vellore <br>
 🔗 Check out my Bento! https://bento.me/ishan <br>
-🔭 I’m currently working on Android Apps <br>
-👯 I’m looking to collaborate on Python GUI <br>
-💫 I work in backend and frontend but not on weekend <br>
-🤖 I also have some knowledge of Arduino <br>
-🤝 I’m looking for help with web development <br>
+🔭 Ask me about Android Apps, Python GUI, web development <br>
+🤖 I have some experience in Arduino <br>
 🌱 I’m currently learning AI, ML and DL <br>
-💬 Ask me about anything, I may be slow to answer <br>
-⚡ Fun fact: It is actually pronounced "Jee-Eye-Eff" <br>
-💾 I do not plagiarize projects, unlike [_some_](https://github.com/jaivardhan-bhola)<br>
-☢️ Always interested in hackathons. Let's team up! <br>
+💾 Always interested in hackathons. Let's team up! <br>
 🧩 MANY side-projects currently under development!!! <br>
 
 
