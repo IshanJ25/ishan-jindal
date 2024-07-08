@@ -49,10 +49,14 @@
 <!-- <p><a href="https://holopin.io/@ishan_j">
   <img src="[https://holopin.me/ishan_j](https://raw.githubusercontent.com/IshanJ25/IshanJ25/main/ishan_j.png)">
 </a></p> -->
+<!-- [![Holopin Board](https://holopin.me/ishan_j)](https://holopin.io/@ishan_j) -->
 
-[![My holopins](https://boards.holopin.io/ishan_j)](https://holopin.io/@ishan_j)
-
-
+<p>
+  <a href="https://holopin.io/@ishan_j">
+    <img src="https://github.com/IshanJ25/IshanJ25/blob/main/holopins.jpg" align="center"/>
+  </a>
+</p>
+<br>
 
 
 <div align="center">
